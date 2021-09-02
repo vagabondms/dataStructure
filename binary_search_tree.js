@@ -98,6 +98,6 @@ class Tree {
             this.detach(this.root, value)
             this.counter --
         }
-
     }
+    test(){}
 }
